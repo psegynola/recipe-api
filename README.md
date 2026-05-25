@@ -31,7 +31,7 @@ Infrastructure state is stored in S3 with DynamoDB locking.
 - Solid lines = runtime traffic
 - Dashed lines = CI/CD or control plane flows
   
-![Architecture](docs/architecture.jpg)
+![Architecture](docs/UpdatedArchitectureMay25,2026.jpg)
 
 ## Technology Stack
 
